@@ -1,1 +1,1 @@
-This repository is for the web page "Modern Robotics Course Notes", for more information please visit the page at "https://muchensun.github.io/ModernRoboticsCourseNotes/".
+Template repository for generating online course notes, based on GitHub Page and Jekyll. For more information, please visit "https://muchensun.github.io/CourseNote/".
